@@ -1,0 +1,4 @@
+Exemplos de tags nãp cemanticas:
+
+<br>,<spam>,<b>,<i>,<div>.
+
